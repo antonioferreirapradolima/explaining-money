@@ -177,7 +177,7 @@
     background-color: rgb(77, 77, 77);
   }
   .imagem-fundo {
-    background: url(IMG/money_background.png);
+    background: url(money_background.png);
     height: 300px;
     width: 100%;
     text-align: center;
